@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CmsTask01/src"/>
+	<classpathentry kind="src" path="CmsTask02/src"/>
+	<classpathentry kind="src" path="CmsTask03/src"/>
+	<classpathentry kind="src" path="CmsTask04/src"/>
+	<classpathentry kind="output" path="CmsTask01/out/production/CmsTask01"/>
+</classpath>
